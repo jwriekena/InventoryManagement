@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"jriekena.inventorymanagement","l":"jriekena.inventorymanagement"},{"m":"jriekena.inventorymanagement","l":"jriekena.inventorymanagement.Controller"},{"m":"jriekena.inventorymanagement","l":"jriekena.inventorymanagement.Model"}];updateSearchResults();
